@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "footprints_esp")(type "KiCad")(uri "${KIPRJMOD}/../libraries/ul_ESP32-S2-MINI-1-N4/KiCAD/2022-03-26_13-09-54/footprints.pretty")(options "")(descr ""))
+  (lib (name "USB-C-Power-tester")(type "KiCad")(uri "${KIPRJMOD}/../libraries/USB-C-Connectors-master/Kicad/Footprints/USB-C-Power-tester.pretty")(options "")(descr ""))
+)
