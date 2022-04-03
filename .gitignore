@@ -24,3 +24,7 @@ fp-info-cache
 # Exported BOM files
 *.xml
 *.csv
+
+# Custom
+.idea
+esp32-s2-mini-1-backups/
