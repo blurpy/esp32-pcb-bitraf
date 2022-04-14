@@ -1354,7 +1354,7 @@
     (at 154.152062 107.8 90)
     (descr "Open Source Hardware Logo")
     (tags "Logo OSHW")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 0 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp e1c30a32-820e-4b17-aec9-5cb8b76f0ccc)
@@ -2819,7 +2819,7 @@
     (at 154.582062 118.8 90)
     (descr "KiCad Logo")
     (tags "Logo KiCad")
-    (attr exclude_from_pos_files exclude_from_bom)
+    (attr board_only exclude_from_pos_files exclude_from_bom)
     (fp_text reference "REF**" (at 0 5.08 90) (layer "B.SilkS") hide
       (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
       (tstamp f2c93195-af12-4d3e-acdf-bdd0ff675c24)
