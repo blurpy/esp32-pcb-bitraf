@@ -4,6 +4,12 @@
 
   (paper "A4")
 
+  (title_block
+    (title "ESP32 S2 Mini Development Board")
+    (date "2022-04-14")
+    (rev "1")
+  )
+
   (lib_symbols
     (symbol "2022-03-26_13-09-54:ESP32-S2-MINI-1-N4" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at 20.32 12.7 0)
