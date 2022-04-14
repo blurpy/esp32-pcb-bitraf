@@ -20,12 +20,13 @@ Inspired by the official development board [ESP32-S2-DevKitM-1](https://docs.esp
 
 ### Board
 
-![PCB front](resources/pcb-3d-front.png)  ![PCB back](resources/pcb-3d-back.png)
+<a href="resources/pcb-3d-front.png"><img src="resources/pcb-3d-front.png" alt="PCB front" width="400px"/></a>
+<a href="resources/pcb-3d-back.png"><img src="resources/pcb-3d-back.png" alt="PCB back" width="400px"/></a>
 
 
 ### Schematic
 
-![Schematic](resources/schematic.png)
+<a href="resources/schematic.png"><img src="resources/schematic.png" alt="Schematic" width="800px"/></a>
 
 
 ### Bill of materials 
