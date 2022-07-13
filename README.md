@@ -31,6 +31,8 @@ Inspired by the official development board [ESP32-S2-DevKitM-1](https://docs.esp
 
 ### Bill of materials
 
+Also available as an [interactive bom](https://blurpy.github.io/esp32-pcb-bitraf/bom/ibom.html).
+
 | Item | Qty | Reference(s)   | Value                   | Type             | Footprint                              | Datasheet                                                                                                     |
 |------|-----|----------------|-------------------------|------------------|----------------------------------------|---------------------------------------------------------------------------------------------------------------|
 | 1    | 2   | BOOT1, RESET1  | SW_Push                 | Switch           | SW_SPST_Panasonic_EVQPL_3PL_5PL_PT_A08 | ~                                                                                                             |
